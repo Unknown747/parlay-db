@@ -1,0 +1,4497 @@
+[
+  {
+    "liga": "ENGLISH PREMIER LEAGUE",
+    "waktu": "21:00",
+    "home": "Crystal Palace",
+    "away": "Nottingham Forest",
+    "is_live": true,
+    "odds_home": 2.73,
+    "odds_draw": 3.38,
+    "odds_away": 2.54,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.04,
+        "under": 1.84
+      },
+      {
+        "line": 2.75,
+        "over": 1.71,
+        "under": 2.21
+      },
+      {
+        "line": 2.25,
+        "over": 2.45,
+        "under": 1.58
+      }
+    ]
+  },
+  {
+    "liga": "ENGLISH PREMIER LEAGUE",
+    "waktu": "21:00",
+    "home": "Hull City",
+    "away": "Everton",
+    "is_live": true,
+    "odds_home": 3.2,
+    "odds_draw": 3.14,
+    "odds_away": 2.13,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.61,
+        "under": 1.51
+      },
+      {
+        "line": 2.0,
+        "over": 1.58,
+        "under": 2.45
+      },
+      {
+        "line": 3.0,
+        "over": 1.9,
+        "under": 1.98
+      }
+    ]
+  },
+  {
+    "liga": "ENGLISH PREMIER LEAGUE",
+    "waktu": "23:30",
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "is_live": true,
+    "odds_home": 2.79,
+    "odds_draw": 3.44,
+    "odds_away": 2.22,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.27,
+        "under": 1.67
+      },
+      {
+        "line": 3.25,
+        "over": 1.69,
+        "under": 2.24
+      },
+      {
+        "line": 2.5,
+        "over": 2.56,
+        "under": 1.53
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE A",
+    "waktu": "18:30",
+    "home": "Como",
+    "away": "AS Roma",
+    "is_live": true,
+    "odds_home": 2.45,
+    "odds_draw": 3.48,
+    "odds_away": 2.76,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.86,
+        "under": 2.02
+      },
+      {
+        "line": 2.75,
+        "over": 2.21,
+        "under": 1.71
+      },
+      {
+        "line": 3.25,
+        "over": 1.59,
+        "under": 2.42
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE A",
+    "waktu": "21:00",
+    "home": "Lazio",
+    "away": "Monza",
+    "is_live": true,
+    "odds_home": 1.64,
+    "odds_draw": 3.58,
+    "odds_away": 4.76,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.71,
+        "under": 2.21
+      },
+      {
+        "line": 2.25,
+        "over": 2.64,
+        "under": 1.5
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE A",
+    "waktu": "21:00",
+    "home": "Lecce",
+    "away": "Bologna",
+    "is_live": true,
+    "odds_home": 4.13,
+    "odds_draw": 3.33,
+    "odds_away": 1.95,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.24,
+        "under": 1.69
+      },
+      {
+        "line": 2.0,
+        "over": 1.65,
+        "under": 2.31
+      },
+      {
+        "line": 2.75,
+        "over": 2.98,
+        "under": 1.4
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE A",
+    "waktu": "00:00",
+    "home": "Sassuolo",
+    "away": "AC Milan",
+    "is_live": true,
+    "odds_home": 3.98,
+    "odds_draw": 3.73,
+    "odds_away": 1.86,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.02,
+        "under": 1.86
+      },
+      {
+        "line": 2.5,
+        "over": 1.77,
+        "under": 2.12
+      },
+      {
+        "line": 3.0,
+        "over": 2.36,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE A",
+    "waktu": "02:45",
+    "home": "Cagliari",
+    "away": "Juventus",
+    "is_live": true,
+    "odds_home": 5.28,
+    "odds_draw": 3.61,
+    "odds_away": 1.58,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.62,
+        "under": 2.36
+      },
+      {
+        "line": 2.0,
+        "over": 2.49,
+        "under": 1.56
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA",
+    "waktu": "20:00",
+    "home": "Elche",
+    "away": "Celta Vigo",
+    "is_live": true,
+    "odds_home": 2.85,
+    "odds_draw": 3.28,
+    "odds_away": 2.49,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.12,
+        "under": 1.77
+      },
+      {
+        "line": 2.25,
+        "over": 1.76,
+        "under": 2.14
+      },
+      {
+        "line": 2.75,
+        "over": 2.56,
+        "under": 1.53
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA",
+    "waktu": "22:15",
+    "home": "Real Sociedad",
+    "away": "Deportivo La Coruna",
+    "is_live": true,
+    "odds_home": 1.58,
+    "odds_draw": 4.08,
+    "odds_away": 5.48,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.05,
+        "under": 1.83
+      },
+      {
+        "line": 2.5,
+        "over": 1.78,
+        "under": 2.11
+      },
+      {
+        "line": 3.0,
+        "over": 2.36,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA",
+    "waktu": "00:30",
+    "home": "Real Betis",
+    "away": "CA Osasuna",
+    "is_live": true,
+    "odds_home": 1.46,
+    "odds_draw": 4.05,
+    "odds_away": 5.78,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.65,
+        "under": 2.31
+      },
+      {
+        "line": 2.25,
+        "over": 2.49,
+        "under": 1.56
+      },
+      {
+        "line": 2.75,
+        "over": 1.93,
+        "under": 1.95
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY BUNDESLIGA",
+    "waktu": "21:30",
+    "home": "FC Koln",
+    "away": "Borussia Monchengladbach",
+    "is_live": true,
+    "odds_home": 1.98,
+    "odds_draw": 3.88,
+    "odds_away": 3.38,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.98,
+        "under": 1.9
+      },
+      {
+        "line": 3.0,
+        "over": 1.73,
+        "under": 2.18
+      },
+      {
+        "line": 3.5,
+        "over": 2.26,
+        "under": 1.68
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY BUNDESLIGA",
+    "waktu": "23:30",
+    "home": "SC Freiburg",
+    "away": "Schalke 04",
+    "is_live": true,
+    "odds_home": 1.63,
+    "odds_draw": 3.78,
+    "odds_away": 4.4,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.42,
+        "under": 1.59
+      },
+      {
+        "line": 3.25,
+        "over": 1.63,
+        "under": 2.34
+      }
+    ]
+  },
+  {
+    "liga": "FRANCE LIGUE 1",
+    "waktu": "21:00",
+    "home": "Nice",
+    "away": "Strasbourg",
+    "is_live": true,
+    "odds_home": 2.35,
+    "odds_draw": 3.65,
+    "odds_away": 2.87,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 2.06,
+        "under": 1.86
+      },
+      {
+        "line": 2.75,
+        "over": 1.75,
+        "under": 2.2
+      },
+      {
+        "line": 3.25,
+        "over": 2.35,
+        "under": 1.66
+      }
+    ]
+  },
+  {
+    "liga": "FRANCE LIGUE 1",
+    "waktu": "23:15",
+    "home": "Rennes",
+    "away": "Auxerre",
+    "is_live": true,
+    "odds_home": 1.43,
+    "odds_draw": 4.85,
+    "odds_away": 6.9,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.92,
+        "under": 2.0
+      },
+      {
+        "line": 3.0,
+        "over": 2.17,
+        "under": 1.77
+      },
+      {
+        "line": 3.5,
+        "over": 1.67,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "FRANCE LIGUE 1",
+    "waktu": "02:45",
+    "home": "Troyes",
+    "away": "Marseille",
+    "is_live": true,
+    "odds_home": 3.6,
+    "odds_draw": 3.8,
+    "odds_away": 1.96,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.96,
+        "under": 1.96
+      },
+      {
+        "line": 2.75,
+        "over": 1.71,
+        "under": 2.26
+      },
+      {
+        "line": 3.25,
+        "over": 2.26,
+        "under": 1.71
+      }
+    ]
+  },
+  {
+    "liga": "ENGLISH CHAMPIONSHIP",
+    "waktu": "19:00",
+    "home": "Southampton",
+    "away": "Portsmouth",
+    "is_live": true,
+    "odds_home": 1.55,
+    "odds_draw": 4.33,
+    "odds_away": 4.68,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.93,
+        "under": 1.93
+      },
+      {
+        "line": 2.75,
+        "over": 1.68,
+        "under": 2.23
+      },
+      {
+        "line": 3.25,
+        "over": 2.26,
+        "under": 1.66
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY BUNDESLIGA 2",
+    "waktu": "19:30",
+    "home": "Hertha Berlin",
+    "away": "Greuther Furth",
+    "is_live": true,
+    "odds_home": 1.56,
+    "odds_draw": 4.65,
+    "odds_away": 5.2,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.88,
+        "under": 2.02
+      },
+      {
+        "line": 3.25,
+        "over": 2.13,
+        "under": 1.78
+      },
+      {
+        "line": 3.75,
+        "over": 1.69,
+        "under": 2.26
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY BUNDESLIGA 2",
+    "waktu": "19:30",
+    "home": "St. Pauli",
+    "away": "Karlsruher SC",
+    "is_live": true,
+    "odds_home": 1.72,
+    "odds_draw": 4.2,
+    "odds_away": 4.35,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.92,
+        "under": 1.98
+      },
+      {
+        "line": 3.5,
+        "over": 2.21,
+        "under": 1.72
+      },
+      {
+        "line": 3.0,
+        "over": 1.72,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY BUNDESLIGA 2",
+    "waktu": "19:30",
+    "home": "VfL Bochum",
+    "away": "Arminia Bielefeld",
+    "is_live": true,
+    "odds_home": 2.33,
+    "odds_draw": 3.65,
+    "odds_away": 2.9,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.0,
+        "under": 1.9
+      },
+      {
+        "line": 3.0,
+        "over": 1.68,
+        "under": 2.28
+      },
+      {
+        "line": 2.5,
+        "over": 2.33,
+        "under": 1.65
+      }
+    ]
+  },
+  {
+    "liga": "JAPAN J1 LEAGUE",
+    "waktu": "15:00",
+    "home": "Kawasaki Frontale",
+    "away": "Nagoya Grampus",
+    "is_live": true,
+    "odds_home": 1.76,
+    "odds_draw": 3.95,
+    "odds_away": 4.35,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.95,
+        "under": 1.97
+      },
+      {
+        "line": 2.75,
+        "over": 1.76,
+        "under": 2.19
+      },
+      {
+        "line": 3.25,
+        "over": 2.36,
+        "under": 1.65
+      }
+    ]
+  },
+  {
+    "liga": "NETHERLANDS EREDIVISIE",
+    "waktu": "18:15",
+    "home": "Utrecht",
+    "away": "Willem II",
+    "is_live": true,
+    "odds_home": 1.5,
+    "odds_draw": 4.55,
+    "odds_away": 6.2,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.85,
+        "under": 2.05
+      },
+      {
+        "line": 3.0,
+        "over": 2.13,
+        "under": 1.78
+      },
+      {
+        "line": 3.5,
+        "over": 1.62,
+        "under": 2.38
+      }
+    ]
+  },
+  {
+    "liga": "NETHERLANDS EREDIVISIE",
+    "waktu": "20:30",
+    "home": "PEC Zwolle",
+    "away": "SC Cambuur",
+    "is_live": true,
+    "odds_home": 2.11,
+    "odds_draw": 3.85,
+    "odds_away": 3.15,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 2.11,
+        "under": 1.8
+      },
+      {
+        "line": 3.25,
+        "over": 1.85,
+        "under": 2.05
+      },
+      {
+        "line": 2.75,
+        "over": 2.35,
+        "under": 1.64
+      }
+    ]
+  },
+  {
+    "liga": "NETHERLANDS EREDIVISIE",
+    "waktu": "20:30",
+    "home": "Telstar",
+    "away": "ADO Den Haag",
+    "is_live": true,
+    "odds_home": 2.14,
+    "odds_draw": 3.7,
+    "odds_away": 3.2,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 2.14,
+        "under": 1.77
+      },
+      {
+        "line": 3.25,
+        "over": 1.88,
+        "under": 2.02
+      },
+      {
+        "line": 2.75,
+        "over": 2.4,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "NETHERLANDS EREDIVISIE",
+    "waktu": "22:45",
+    "home": "SBV Excelsior",
+    "away": "Groningen",
+    "is_live": true,
+    "odds_home": 2.6,
+    "odds_draw": 3.75,
+    "odds_away": 2.52,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.98,
+        "under": 1.92
+      },
+      {
+        "line": 3.25,
+        "over": 1.71,
+        "under": 2.23
+      },
+      {
+        "line": 2.75,
+        "over": 2.28,
+        "under": 1.68
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY ELITESERIEN",
+    "waktu": "20:30",
+    "home": "Fredrikstad",
+    "away": "Tromso",
+    "is_live": true,
+    "odds_home": 2.78,
+    "odds_draw": 3.43,
+    "odds_away": 2.47,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.1,
+        "under": 1.77
+      },
+      {
+        "line": 2.75,
+        "over": 1.76,
+        "under": 2.11
+      },
+      {
+        "line": 2.25,
+        "over": 1.55,
+        "under": 2.47
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY ELITESERIEN",
+    "waktu": "23:00",
+    "home": "Aalesund FK",
+    "away": "Sarpsborg 08",
+    "is_live": true,
+    "odds_home": 2.37,
+    "odds_draw": 3.78,
+    "odds_away": 2.69,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.81,
+        "under": 2.05
+      },
+      {
+        "line": 3.5,
+        "over": 2.12,
+        "under": 1.75
+      },
+      {
+        "line": 3.0,
+        "over": 1.62,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY ELITESERIEN",
+    "waktu": "23:00",
+    "home": "Start IK",
+    "away": "Ham-Kam",
+    "is_live": true,
+    "odds_home": 1.96,
+    "odds_draw": 3.73,
+    "odds_away": 3.58,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.96,
+        "under": 1.9
+      },
+      {
+        "line": 2.75,
+        "over": 1.71,
+        "under": 2.18
+      },
+      {
+        "line": 3.25,
+        "over": 2.23,
+        "under": 1.68
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY ELITESERIEN",
+    "waktu": "01:15",
+    "home": "Lillestrom",
+    "away": "Molde",
+    "is_live": true,
+    "odds_home": 2.69,
+    "odds_draw": 3.98,
+    "odds_away": 2.31,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.83,
+        "under": 2.03
+      },
+      {
+        "line": 3.25,
+        "over": 2.1,
+        "under": 1.77
+      },
+      {
+        "line": 3.75,
+        "over": 1.63,
+        "under": 2.31
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN ALLSVENSKAN",
+    "waktu": "20:00",
+    "home": "Hammarby",
+    "away": "Djurgardens",
+    "is_live": true,
+    "odds_home": 1.76,
+    "odds_draw": 3.93,
+    "odds_away": 4.23,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.99,
+        "under": 1.87
+      },
+      {
+        "line": 3.25,
+        "over": 1.76,
+        "under": 2.11
+      },
+      {
+        "line": 2.75,
+        "over": 2.33,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN ALLSVENSKAN",
+    "waktu": "22:30",
+    "home": "BK Hacken",
+    "away": "Orgryte",
+    "is_live": true,
+    "odds_home": 1.32,
+    "odds_draw": 5.68,
+    "odds_away": 8.08,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.85,
+        "under": 2.01
+      },
+      {
+        "line": 3.25,
+        "over": 2.17,
+        "under": 1.72
+      },
+      {
+        "line": 3.75,
+        "over": 1.63,
+        "under": 2.31
+      }
+    ]
+  },
+  {
+    "liga": "DENMARK SUPER LEAGUE",
+    "waktu": "20:00",
+    "home": "Randers FC",
+    "away": "Viborg",
+    "is_live": true,
+    "odds_home": 3.23,
+    "odds_draw": 3.63,
+    "odds_away": 2.12,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.0,
+        "under": 1.86
+      },
+      {
+        "line": 3.0,
+        "over": 1.75,
+        "under": 2.12
+      },
+      {
+        "line": 2.5,
+        "over": 2.36,
+        "under": 1.6
+      }
+    ]
+  },
+  {
+    "liga": "DENMARK SUPER LEAGUE",
+    "waktu": "20:00",
+    "home": "Silkeborg",
+    "away": "AC Horsens",
+    "is_live": true,
+    "odds_home": 2.11,
+    "odds_draw": 3.48,
+    "odds_away": 3.38,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.83,
+        "under": 2.03
+      },
+      {
+        "line": 2.5,
+        "over": 2.11,
+        "under": 1.76
+      },
+      {
+        "line": 3.0,
+        "over": 1.58,
+        "under": 2.4
+      }
+    ]
+  },
+  {
+    "liga": "DENMARK SUPER LEAGUE",
+    "waktu": "22:00",
+    "home": "Brondby IF",
+    "away": "Lyngby",
+    "is_live": true,
+    "odds_home": 1.72,
+    "odds_draw": 4.03,
+    "odds_away": 4.38,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.94,
+        "under": 1.92
+      },
+      {
+        "line": 2.75,
+        "over": 1.72,
+        "under": 2.17
+      },
+      {
+        "line": 3.25,
+        "over": 2.34,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "DENMARK SUPER LEAGUE",
+    "waktu": "00:00",
+    "home": "Midtjylland",
+    "away": "FC Copenhagen",
+    "is_live": true,
+    "odds_home": 2.37,
+    "odds_draw": 3.58,
+    "odds_away": 2.8,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.78,
+        "under": 2.09
+      },
+      {
+        "line": 3.0,
+        "over": 2.14,
+        "under": 1.74
+      },
+      {
+        "line": 2.5,
+        "over": 1.62,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "FINLAND VEIKKAUSLIIGA PLAYOFF",
+    "waktu": "20:00",
+    "home": "Inter Turku",
+    "away": "KuPS",
+    "is_live": true,
+    "odds_home": 2.17,
+    "odds_draw": 3.2,
+    "odds_away": 3.65,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.86,
+        "under": 2.04
+      },
+      {
+        "line": 2.0,
+        "over": 2.17,
+        "under": 1.75
+      },
+      {
+        "line": 2.5,
+        "over": 1.53,
+        "under": 2.58
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL",
+    "waktu": "22:30",
+    "home": "Rio Ave",
+    "away": "Nacional da Madeira",
+    "is_live": true,
+    "odds_home": 2.23,
+    "odds_draw": 3.35,
+    "odds_away": 3.0,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.91,
+        "under": 1.99
+      },
+      {
+        "line": 2.5,
+        "over": 2.23,
+        "under": 1.71
+      },
+      {
+        "line": 2.0,
+        "over": 1.59,
+        "under": 2.44
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL",
+    "waktu": "01:00",
+    "home": "Benfica",
+    "away": "Vitoria Guimaraes",
+    "is_live": true,
+    "odds_home": 1.21,
+    "odds_draw": 5.7,
+    "odds_away": 13.0,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.82,
+        "under": 2.08
+      },
+      {
+        "line": 3.0,
+        "over": 2.11,
+        "under": 1.8
+      },
+      {
+        "line": 3.5,
+        "over": 2.42,
+        "under": 1.6
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL",
+    "waktu": "03:30",
+    "home": "Arouca",
+    "away": "Estrela da Amadora",
+    "is_live": true,
+    "odds_home": 2.07,
+    "odds_draw": 3.4,
+    "odds_away": 3.3,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.07,
+        "under": 1.83
+      },
+      {
+        "line": 2.75,
+        "over": 1.79,
+        "under": 2.12
+      },
+      {
+        "line": 2.25,
+        "over": 2.36,
+        "under": 1.63
+      }
+    ]
+  },
+  {
+    "liga": "SWISS SUPER LEAGUE",
+    "waktu": "20:00",
+    "home": "Grasshopper",
+    "away": "Young Boys",
+    "is_live": true,
+    "odds_home": 5.0,
+    "odds_draw": 4.85,
+    "odds_away": 1.5,
+    "ou_lines": [
+      {
+        "line": 4.0,
+        "over": 1.9,
+        "under": 2.0
+      },
+      {
+        "line": 4.25,
+        "over": 2.16,
+        "under": 1.76
+      },
+      {
+        "line": 3.75,
+        "over": 1.72,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "SWISS SUPER LEAGUE",
+    "waktu": "22:30",
+    "home": "St. Gallen",
+    "away": "Lausanne-Sport",
+    "is_live": true,
+    "odds_home": 1.45,
+    "odds_draw": 4.65,
+    "odds_away": 5.8,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.97,
+        "under": 1.93
+      },
+      {
+        "line": 3.25,
+        "over": 1.71,
+        "under": 2.23
+      },
+      {
+        "line": 3.75,
+        "over": 2.21,
+        "under": 1.72
+      }
+    ]
+  },
+  {
+    "liga": "SWISS SUPER LEAGUE",
+    "waktu": "22:30",
+    "home": "Vaduz",
+    "away": "Basel",
+    "is_live": true,
+    "odds_home": 2.58,
+    "odds_draw": 3.9,
+    "odds_away": 2.29,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 2.06,
+        "under": 1.84
+      },
+      {
+        "line": 3.75,
+        "over": 1.8,
+        "under": 2.11
+      },
+      {
+        "line": 3.25,
+        "over": 2.38,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "JAPAN J2 LEAGUE",
+    "waktu": "17:00",
+    "home": "Shonan Bellmare",
+    "away": "Albirex Niigata",
+    "is_live": true,
+    "odds_home": 2.33,
+    "odds_draw": 3.2,
+    "odds_away": 3.25,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.96,
+        "under": 1.94
+      },
+      {
+        "line": 2.5,
+        "over": 1.63,
+        "under": 2.36
+      },
+      {
+        "line": 2.0,
+        "over": 2.33,
+        "under": 1.65
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA 2",
+    "waktu": "20:00",
+    "home": "FC Andorra",
+    "away": "CD Castellon",
+    "is_live": true,
+    "odds_home": 2.79,
+    "odds_draw": 3.58,
+    "odds_away": 2.23,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.96,
+        "under": 1.9
+      },
+      {
+        "line": 3.0,
+        "over": 1.68,
+        "under": 2.23
+      },
+      {
+        "line": 2.5,
+        "over": 2.34,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA 2",
+    "waktu": "22:15",
+    "home": "UD Almeria",
+    "away": "Leganes",
+    "is_live": true,
+    "odds_home": 1.62,
+    "odds_draw": 3.93,
+    "odds_away": 4.63,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.81,
+        "under": 2.05
+      },
+      {
+        "line": 2.5,
+        "over": 2.14,
+        "under": 1.74
+      },
+      {
+        "line": 3.0,
+        "over": 1.62,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA 2",
+    "waktu": "00:30",
+    "home": "RCD Mallorca",
+    "away": "Las Palmas",
+    "is_live": true,
+    "odds_home": 1.59,
+    "odds_draw": 3.93,
+    "odds_away": 4.88,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.03,
+        "under": 1.83
+      },
+      {
+        "line": 2.75,
+        "over": 1.74,
+        "under": 2.14
+      },
+      {
+        "line": 2.25,
+        "over": 2.38,
+        "under": 1.59
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN LA LIGA 2",
+    "waktu": "03:00",
+    "home": "Cadiz",
+    "away": "Sporting Gijon",
+    "is_live": true,
+    "odds_home": 2.1,
+    "odds_draw": 3.18,
+    "odds_away": 3.38,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.8,
+        "under": 2.06
+      },
+      {
+        "line": 2.0,
+        "over": 2.1,
+        "under": 1.77
+      },
+      {
+        "line": 2.5,
+        "over": 1.49,
+        "under": 2.61
+      }
+    ]
+  },
+  {
+    "liga": "BELGIUM FIRST DIVISION A",
+    "waktu": "19:30",
+    "home": "Standard Liege",
+    "away": "Royal Charleroi SC",
+    "is_live": true,
+    "odds_home": 2.73,
+    "odds_draw": 3.38,
+    "odds_away": 2.35,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.07,
+        "under": 1.79
+      },
+      {
+        "line": 2.75,
+        "over": 1.74,
+        "under": 2.14
+      },
+      {
+        "line": 2.25,
+        "over": 2.34,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "BELGIUM FIRST DIVISION A",
+    "waktu": "22:00",
+    "home": "Union Saint-Gilloise",
+    "away": "Oud-Heverlee Leuven",
+    "is_live": true,
+    "odds_home": 1.22,
+    "odds_draw": 5.88,
+    "odds_away": 9.58,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.9,
+        "under": 1.96
+      },
+      {
+        "line": 3.0,
+        "over": 2.18,
+        "under": 1.71
+      },
+      {
+        "line": 3.5,
+        "over": 1.72,
+        "under": 2.17
+      }
+    ]
+  },
+  {
+    "liga": "BELGIUM FIRST DIVISION A",
+    "waktu": "00:30",
+    "home": "KVC Westerlo",
+    "away": "Royal Antwerp",
+    "is_live": true,
+    "odds_home": 2.07,
+    "odds_draw": 3.73,
+    "odds_away": 2.97,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.82,
+        "under": 2.04
+      },
+      {
+        "line": 3.0,
+        "over": 2.07,
+        "under": 1.79
+      },
+      {
+        "line": 3.5,
+        "over": 1.58,
+        "under": 2.4
+      }
+    ]
+  },
+  {
+    "liga": "BELGIUM FIRST DIVISION A",
+    "waktu": "01:15",
+    "home": "KV Mechelen",
+    "away": "Sint Truidense",
+    "is_live": true,
+    "odds_home": 2.96,
+    "odds_draw": 3.43,
+    "odds_away": 2.17,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.97,
+        "under": 1.89
+      },
+      {
+        "line": 3.0,
+        "over": 1.72,
+        "under": 2.17
+      },
+      {
+        "line": 2.5,
+        "over": 2.36,
+        "under": 1.6
+      }
+    ]
+  },
+  {
+    "liga": "TURKIYE SUPER LEAGUE",
+    "waktu": "18:30",
+    "home": "Konyaspor",
+    "away": "Istanbul Basaksehir",
+    "is_live": true,
+    "odds_home": 2.38,
+    "odds_draw": 3.4,
+    "odds_away": 2.73,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.82,
+        "under": 2.08
+      },
+      {
+        "line": 2.5,
+        "over": 2.16,
+        "under": 1.76
+      },
+      {
+        "line": 3.0,
+        "over": 1.65,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "TURKIYE SUPER LEAGUE",
+    "waktu": "21:00",
+    "home": "Gaziantep FK",
+    "away": "Corum FK",
+    "is_live": true,
+    "odds_home": 2.45,
+    "odds_draw": 3.35,
+    "odds_away": 2.67,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.87,
+        "under": 2.03
+      },
+      {
+        "line": 2.75,
+        "over": 2.23,
+        "under": 1.71
+      },
+      {
+        "line": 2.25,
+        "over": 1.65,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "TURKIYE SUPER LEAGUE",
+    "waktu": "00:00",
+    "home": "Besiktas",
+    "away": "Kocaelispor",
+    "is_live": true,
+    "odds_home": 1.22,
+    "odds_draw": 5.9,
+    "odds_away": 11.0,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.93,
+        "under": 1.97
+      },
+      {
+        "line": 3.25,
+        "over": 1.73,
+        "under": 2.2
+      },
+      {
+        "line": 2.75,
+        "over": 2.28,
+        "under": 1.68
+      }
+    ]
+  },
+  {
+    "liga": "RUSSIA PREMIER LEAGUE",
+    "waktu": "19:00",
+    "home": "Akhmat Grozny",
+    "away": "Baltika Kaliningrad",
+    "is_live": true,
+    "odds_home": 2.48,
+    "odds_draw": 3.03,
+    "odds_away": 2.82,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 1.81,
+        "under": 2.05
+      },
+      {
+        "line": 2.25,
+        "over": 2.23,
+        "under": 1.68
+      },
+      {
+        "line": 1.75,
+        "over": 1.58,
+        "under": 2.4
+      }
+    ]
+  },
+  {
+    "liga": "RUSSIA PREMIER LEAGUE",
+    "waktu": "21:30",
+    "home": "CSKA Moscow",
+    "away": "Rodina Moscow",
+    "is_live": true,
+    "odds_home": 1.38,
+    "odds_draw": 4.68,
+    "odds_away": 6.48,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.86,
+        "under": 2.0
+      },
+      {
+        "line": 3.25,
+        "over": 2.11,
+        "under": 1.76
+      },
+      {
+        "line": 2.75,
+        "over": 1.62,
+        "under": 2.33
+      }
+    ]
+  },
+  {
+    "liga": "RUSSIA PREMIER LEAGUE",
+    "waktu": "00:30",
+    "home": "Rubin Kazan",
+    "away": "Dynamo Moscow",
+    "is_live": true,
+    "odds_home": 3.78,
+    "odds_draw": 3.38,
+    "odds_away": 1.89,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.97,
+        "under": 1.89
+      },
+      {
+        "line": 2.5,
+        "over": 1.72,
+        "under": 2.17
+      },
+      {
+        "line": 2.0,
+        "over": 2.27,
+        "under": 1.65
+      }
+    ]
+  },
+  {
+    "liga": "AUSTRIA BUNDESLIGA",
+    "waktu": "20:30",
+    "home": "TSV Hartberg",
+    "away": "Austria Lustenau",
+    "is_live": true,
+    "odds_home": 2.15,
+    "odds_draw": 3.53,
+    "odds_away": 2.94,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.89,
+        "under": 1.97
+      },
+      {
+        "line": 2.75,
+        "over": 2.15,
+        "under": 1.73
+      },
+      {
+        "line": 2.25,
+        "over": 1.59,
+        "under": 2.38
+      }
+    ]
+  },
+  {
+    "liga": "AUSTRIA BUNDESLIGA",
+    "waktu": "20:30",
+    "home": "SCR Altach",
+    "away": "Wolfsberger AC",
+    "is_live": true,
+    "odds_home": 1.88,
+    "odds_draw": 3.73,
+    "odds_away": 3.48,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.88,
+        "under": 1.98
+      },
+      {
+        "line": 2.75,
+        "over": 1.66,
+        "under": 2.26
+      },
+      {
+        "line": 3.25,
+        "over": 2.23,
+        "under": 1.68
+      }
+    ]
+  },
+  {
+    "liga": "AUSTRIA BUNDESLIGA",
+    "waktu": "23:00",
+    "home": "LASK Linz",
+    "away": "Rapid Wien",
+    "is_live": true,
+    "odds_home": 1.83,
+    "odds_draw": 3.98,
+    "odds_away": 3.43,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.83,
+        "under": 2.03
+      },
+      {
+        "line": 3.5,
+        "over": 2.11,
+        "under": 1.76
+      },
+      {
+        "line": 3.0,
+        "over": 1.64,
+        "under": 2.29
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE B",
+    "waktu": "21:00",
+    "home": "Catanzaro",
+    "away": "Mantova",
+    "is_live": true,
+    "odds_home": 2.34,
+    "odds_draw": 3.38,
+    "odds_away": 2.75,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.05,
+        "under": 1.81
+      },
+      {
+        "line": 2.5,
+        "over": 1.71,
+        "under": 2.18
+      },
+      {
+        "line": 3.0,
+        "over": 2.34,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE B",
+    "waktu": "23:15",
+    "home": "Padova",
+    "away": "Carrarese",
+    "is_live": true,
+    "odds_home": 1.89,
+    "odds_draw": 3.53,
+    "odds_away": 3.58,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.89,
+        "under": 1.97
+      },
+      {
+        "line": 2.75,
+        "over": 2.15,
+        "under": 1.73
+      },
+      {
+        "line": 2.25,
+        "over": 1.61,
+        "under": 2.34
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE B",
+    "waktu": "01:30",
+    "home": "Modena",
+    "away": "Hellas Verona",
+    "is_live": true,
+    "odds_home": 2.1,
+    "odds_draw": 3.33,
+    "odds_away": 3.23,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.76,
+        "under": 2.11
+      },
+      {
+        "line": 2.25,
+        "over": 2.1,
+        "under": 1.77
+      },
+      {
+        "line": 2.75,
+        "over": 2.45,
+        "under": 1.56
+      }
+    ]
+  },
+  {
+    "liga": "SCOTLAND PREMIERSHIP",
+    "waktu": "19:00",
+    "home": "Motherwell",
+    "away": "Celtic",
+    "is_live": true,
+    "odds_home": 4.73,
+    "odds_draw": 4.28,
+    "odds_away": 1.55,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.95,
+        "under": 1.91
+      },
+      {
+        "line": 3.0,
+        "over": 2.21,
+        "under": 1.69
+      },
+      {
+        "line": 3.5,
+        "over": 1.69,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "SCOTLAND PREMIERSHIP",
+    "waktu": "21:00",
+    "home": "Aberdeen",
+    "away": "Saint Johnstone FC",
+    "is_live": true,
+    "odds_home": 2.09,
+    "odds_draw": 3.38,
+    "odds_away": 3.18,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.78,
+        "under": 2.09
+      },
+      {
+        "line": 2.25,
+        "over": 2.09,
+        "under": 1.78
+      },
+      {
+        "line": 2.75,
+        "over": 1.51,
+        "under": 2.56
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN SUPERETTAN",
+    "waktu": "19:00",
+    "home": "Orebro",
+    "away": "Ljungskile",
+    "is_live": true,
+    "odds_home": 2.09,
+    "odds_draw": 3.63,
+    "odds_away": 2.98,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.09,
+        "under": 1.78
+      },
+      {
+        "line": 3.0,
+        "over": 1.82,
+        "under": 2.04
+      },
+      {
+        "line": 2.5,
+        "over": 2.38,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN SUPERETTAN",
+    "waktu": "21:00",
+    "home": "IFK Varnamo",
+    "away": "Falkenbergs",
+    "is_live": true,
+    "odds_home": 2.34,
+    "odds_draw": 3.58,
+    "odds_away": 2.63,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.06,
+        "under": 1.8
+      },
+      {
+        "line": 3.0,
+        "over": 1.75,
+        "under": 2.12
+      },
+      {
+        "line": 2.5,
+        "over": 2.36,
+        "under": 1.63
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN SUPERETTAN",
+    "waktu": "23:00",
+    "home": "IK Brage",
+    "away": "Helsingborgs",
+    "is_live": true,
+    "odds_home": 2.24,
+    "odds_draw": 3.53,
+    "odds_away": 2.78,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.96,
+        "under": 1.9
+      },
+      {
+        "line": 3.0,
+        "over": 1.66,
+        "under": 2.26
+      },
+      {
+        "line": 2.5,
+        "over": 2.26,
+        "under": 1.69
+      }
+    ]
+  },
+  {
+    "liga": "INDONESIA SUPER LEAGUE",
+    "waktu": "16:30",
+    "home": "Java United FC",
+    "away": "Borneo FC Samarinda",
+    "is_live": true,
+    "odds_home": 2.4,
+    "odds_draw": 3.35,
+    "odds_away": 2.47,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.89,
+        "under": 1.95
+      },
+      {
+        "line": 3.0,
+        "over": 2.19,
+        "under": 1.68
+      },
+      {
+        "line": 2.5,
+        "over": 1.97,
+        "under": 1.87
+      }
+    ]
+  },
+  {
+    "liga": "INDONESIA SUPER LEAGUE",
+    "waktu": "20:00",
+    "home": "Persib Bandung",
+    "away": "Dewa United FC",
+    "is_live": true,
+    "odds_home": 1.62,
+    "odds_draw": 3.8,
+    "odds_away": 4.2,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.82,
+        "under": 2.02
+      },
+      {
+        "line": 3.0,
+        "over": 2.16,
+        "under": 1.7
+      }
+    ]
+  },
+  {
+    "liga": "THAILAND LEAGUE 1",
+    "waktu": "19:00",
+    "home": "Lamphun Warrior FC",
+    "away": "Bangkok United",
+    "is_live": true,
+    "odds_home": 3.18,
+    "odds_draw": 3.23,
+    "odds_away": 1.98,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.86,
+        "under": 1.98
+      },
+      {
+        "line": 2.25,
+        "over": 2.14,
+        "under": 1.72
+      }
+    ]
+  },
+  {
+    "liga": "THAILAND LEAGUE 1",
+    "waktu": "19:30",
+    "home": "Sisaket United",
+    "away": "Chonburi FC",
+    "is_live": true,
+    "odds_home": 2.71,
+    "odds_draw": 3.08,
+    "odds_away": 2.3,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.72,
+        "under": 2.14
+      },
+      {
+        "line": 2.0,
+        "over": 2.07,
+        "under": 1.77
+      },
+      {
+        "line": 3.25,
+        "over": 1.91,
+        "under": 1.93
+      }
+    ]
+  },
+  {
+    "liga": "CHINA FOOTBALL SUPER LEAGUE",
+    "waktu": "18:00",
+    "home": "Qingdao West Coast FC",
+    "away": "Dalian Yingbo",
+    "is_live": true,
+    "odds_home": 2.41,
+    "odds_draw": 3.38,
+    "odds_away": 2.65,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.83,
+        "under": 2.01
+      },
+      {
+        "line": 2.5,
+        "over": 2.17,
+        "under": 1.7
+      },
+      {
+        "line": 3.0,
+        "over": 1.62,
+        "under": 2.29
+      }
+    ]
+  },
+  {
+    "liga": "CHINA FOOTBALL SUPER LEAGUE",
+    "waktu": "19:35",
+    "home": "Chongqing Tonglianglong",
+    "away": "Shandong Taishan",
+    "is_live": true,
+    "odds_home": 2.46,
+    "odds_draw": 3.43,
+    "odds_away": 2.56,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.88,
+        "under": 1.96
+      },
+      {
+        "line": 2.5,
+        "over": 2.24,
+        "under": 1.65
+      },
+      {
+        "line": 3.0,
+        "over": 1.61,
+        "under": 2.31
+      }
+    ]
+  },
+  {
+    "liga": "CHINA FOOTBALL SUPER LEAGUE",
+    "waktu": "19:35",
+    "home": "Liaoning Tieren",
+    "away": "Wuhan Three Towns",
+    "is_live": true,
+    "odds_home": 2.29,
+    "odds_draw": 3.63,
+    "odds_away": 2.65,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.97,
+        "under": 1.87
+      },
+      {
+        "line": 3.0,
+        "over": 1.68,
+        "under": 2.19
+      },
+      {
+        "line": 3.5,
+        "over": 2.29,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "POLAND EKSTRAKLASA",
+    "waktu": "20:45",
+    "home": "Piast Gliwice",
+    "away": "Widzew Lodz",
+    "is_live": true,
+    "odds_home": 2.64,
+    "odds_draw": 3.38,
+    "odds_away": 2.41,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.02,
+        "under": 1.84
+      },
+      {
+        "line": 2.5,
+        "over": 1.7,
+        "under": 2.19
+      }
+    ]
+  },
+  {
+    "liga": "POLAND EKSTRAKLASA",
+    "waktu": "02:15",
+    "home": "Legia Warszawa",
+    "away": "Wisla Krakow",
+    "is_live": true,
+    "odds_home": 2.11,
+    "odds_draw": 3.43,
+    "odds_away": 3.13,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.11,
+        "under": 1.76
+      },
+      {
+        "line": 3.0,
+        "over": 1.85,
+        "under": 2.01
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY 1ST DIV",
+    "waktu": "23:00",
+    "home": "Asane Fotball",
+    "away": "Sogndal",
+    "is_live": true,
+    "odds_home": 2.49,
+    "odds_draw": 3.65,
+    "odds_away": 2.34,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 2.01,
+        "under": 1.89
+      },
+      {
+        "line": 3.25,
+        "over": 1.75,
+        "under": 2.17
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY 1ST DIV",
+    "waktu": "23:00",
+    "home": "Kongsvinger",
+    "away": "Ranheim",
+    "is_live": true,
+    "odds_home": 1.5,
+    "odds_draw": 5.2,
+    "odds_away": 4.2,
+    "ou_lines": [
+      {
+        "line": 4.25,
+        "over": 2.04,
+        "under": 1.86
+      },
+      {
+        "line": 4.5,
+        "over": 1.82,
+        "under": 2.08
+      },
+      {
+        "line": 3.75,
+        "over": 2.03,
+        "under": 1.87
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY 1ST DIV",
+    "waktu": "23:00",
+    "home": "Odd BK",
+    "away": "Bryne",
+    "is_live": true,
+    "odds_home": 2.23,
+    "odds_draw": 3.5,
+    "odds_away": 2.72,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.98,
+        "under": 1.92
+      },
+      {
+        "line": 3.0,
+        "over": 1.68,
+        "under": 2.28
+      }
+    ]
+  },
+  {
+    "liga": "NORWAY 1ST DIV",
+    "waktu": "23:00",
+    "home": "Sandnes Ulf",
+    "away": "Haugesund",
+    "is_live": true,
+    "odds_home": 4.9,
+    "odds_draw": 4.25,
+    "odds_away": 1.53,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.98,
+        "under": 1.92
+      },
+      {
+        "line": 3.75,
+        "over": 1.75,
+        "under": 2.17
+      }
+    ]
+  },
+  {
+    "liga": "DENMARK 1ST DIV",
+    "waktu": "20:00",
+    "home": "Vendsyssel",
+    "away": "Herfolge Koge",
+    "is_live": true,
+    "odds_home": 2.26,
+    "odds_draw": 3.43,
+    "odds_away": 2.66,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.98,
+        "under": 1.88
+      },
+      {
+        "line": 3.0,
+        "over": 1.66,
+        "under": 2.26
+      }
+    ]
+  },
+  {
+    "liga": "ICELAND PREMIER LEAGUE PLAYOFF",
+    "waktu": "03:15",
+    "home": "Breidablik",
+    "away": "Keflavik",
+    "is_live": true,
+    "odds_home": 1.91,
+    "odds_draw": 3.85,
+    "odds_away": 3.15,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.91,
+        "under": 1.99
+      },
+      {
+        "line": 3.75,
+        "over": 2.14,
+        "under": 1.77
+      }
+    ]
+  },
+  {
+    "liga": "EGYPT PREMIER LEAGUE",
+    "waktu": "22:00",
+    "home": "El Qanah FC",
+    "away": "Al Masry SC",
+    "is_live": true,
+    "odds_home": 4.0,
+    "odds_draw": 3.05,
+    "odds_away": 1.84,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 2.04,
+        "under": 1.84
+      },
+      {
+        "line": 2.25,
+        "over": 1.76,
+        "under": 2.13
+      },
+      {
+        "line": 2.5,
+        "over": 1.96,
+        "under": 1.92
+      }
+    ]
+  },
+  {
+    "liga": "FINLAND YKKOSLIIGA",
+    "waktu": "21:00",
+    "home": "Seinajoen JK Akatemia",
+    "away": "FC KTP",
+    "is_live": true,
+    "odds_home": 6.8,
+    "odds_draw": 5.2,
+    "odds_away": 1.32,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.96,
+        "under": 1.84
+      }
+    ]
+  },
+  {
+    "liga": "GREECE SUPER LEAGUE",
+    "waktu": "22:00",
+    "home": "Iraklis 1908",
+    "away": "Levadiakos",
+    "is_live": true,
+    "odds_home": 2.38,
+    "odds_draw": 3.05,
+    "odds_away": 2.83,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 2.03,
+        "under": 1.87
+      },
+      {
+        "line": 2.25,
+        "over": 2.38,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "GREECE SUPER LEAGUE",
+    "waktu": "00:00",
+    "home": "Aris Thessaloniki",
+    "away": "Volos NFC",
+    "is_live": true,
+    "odds_home": 1.53,
+    "odds_draw": 3.8,
+    "odds_away": 5.4,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.0,
+        "under": 1.9
+      },
+      {
+        "line": 2.75,
+        "over": 2.28,
+        "under": 1.68
+      },
+      {
+        "line": 2.25,
+        "over": 1.94,
+        "under": 1.96
+      }
+    ]
+  },
+  {
+    "liga": "AUSTRIA 2ND LIGA",
+    "waktu": "16:30",
+    "home": "Admira Wacker",
+    "away": "ASK Voitsberg",
+    "is_live": true,
+    "odds_home": 2.51,
+    "odds_draw": 3.45,
+    "odds_away": 2.41,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.99,
+        "under": 1.91
+      },
+      {
+        "line": 2.75,
+        "over": 1.72,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "ROMANIA SUPERLIGA",
+    "waktu": "23:00",
+    "home": "FK Csikszereda",
+    "away": "CS Universitatea Craiova",
+    "is_live": true,
+    "odds_home": 6.97,
+    "odds_draw": 4.87,
+    "odds_away": 1.26,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.91,
+        "under": 1.91
+      },
+      {
+        "line": 3.0,
+        "over": 2.17,
+        "under": 1.68
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL 2",
+    "waktu": "18:00",
+    "home": "Lusitania FC Lourosa",
+    "away": "Chaves",
+    "is_live": true,
+    "odds_home": 2.23,
+    "odds_draw": 3.15,
+    "odds_away": 2.99,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.98,
+        "under": 1.92
+      },
+      {
+        "line": 2.5,
+        "over": 1.62,
+        "under": 2.38
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL 2",
+    "waktu": "01:00",
+    "home": "Uniao Leiria",
+    "away": "Academica Coimbra",
+    "is_live": true,
+    "odds_home": 1.99,
+    "odds_draw": 3.4,
+    "odds_away": 3.3,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.99,
+        "under": 1.91
+      },
+      {
+        "line": 2.75,
+        "over": 1.7,
+        "under": 2.25
+      }
+    ]
+  },
+  {
+    "liga": "SAUDI ARABIA PRO LEAGUE",
+    "waktu": "21:40",
+    "home": "Al Fayha FC",
+    "away": "Al Riyadh",
+    "is_live": true,
+    "odds_home": 2.25,
+    "odds_draw": 3.25,
+    "odds_away": 3.05,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.92,
+        "under": 1.98
+      },
+      {
+        "line": 2.25,
+        "over": 2.25,
+        "under": 1.7
+      }
+    ]
+  },
+  {
+    "liga": "SAUDI ARABIA PRO LEAGUE",
+    "waktu": "02:00",
+    "home": "Al Shabab Riyadh",
+    "away": "Al Taawoun Buraidah",
+    "is_live": true,
+    "odds_home": 2.22,
+    "odds_draw": 3.6,
+    "odds_away": 2.84,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 2.02,
+        "under": 1.88
+      },
+      {
+        "line": 2.75,
+        "over": 1.73,
+        "under": 2.2
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY 3RD LEAGUE",
+    "waktu": "19:30",
+    "home": "Ingolstadt 04",
+    "away": "SV Wehen Wiesbaden",
+    "is_live": true,
+    "odds_home": 2.27,
+    "odds_draw": 3.38,
+    "odds_away": 2.67,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.78,
+        "under": 2.09
+      },
+      {
+        "line": 2.5,
+        "over": 2.15,
+        "under": 1.73
+      },
+      {
+        "line": 3.0,
+        "over": 2.06,
+        "under": 1.8
+      }
+    ]
+  },
+  {
+    "liga": "GERMANY 3RD LEAGUE",
+    "waktu": "01:30",
+    "home": "Fortuna Dusseldorf",
+    "away": "SC Verl",
+    "is_live": true,
+    "odds_home": 1.77,
+    "odds_draw": 3.63,
+    "odds_away": 3.68,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 2.0,
+        "under": 1.86
+      },
+      {
+        "line": 2.75,
+        "over": 1.77,
+        "under": 2.1
+      }
+    ]
+  },
+  {
+    "liga": "UKRAINE PREMIER LEAGUE",
+    "waktu": "18:00",
+    "home": "Dinamo Kiev",
+    "away": "Karpaty Lviv",
+    "is_live": true,
+    "odds_home": 1.78,
+    "odds_draw": 3.47,
+    "odds_away": 3.27,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.78,
+        "under": 1.94
+      }
+    ]
+  },
+  {
+    "liga": "CZECHIA FIRST LEAGUE",
+    "waktu": "19:00",
+    "home": "Slovan Liberec",
+    "away": "Slovacko",
+    "is_live": true,
+    "odds_home": 1.5,
+    "odds_draw": 4.0,
+    "odds_away": 5.6,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.92,
+        "under": 1.98
+      },
+      {
+        "line": 2.75,
+        "over": 2.23,
+        "under": 1.71
+      }
+    ]
+  },
+  {
+    "liga": "CZECHIA FIRST LEAGUE",
+    "waktu": "00:00",
+    "home": "Sparta Praha",
+    "away": "FK Pardubice",
+    "is_live": true,
+    "odds_home": 1.31,
+    "odds_draw": 4.85,
+    "odds_away": 7.9,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.96,
+        "under": 1.94
+      },
+      {
+        "line": 3.0,
+        "over": 1.73,
+        "under": 2.2
+      }
+    ]
+  },
+  {
+    "liga": "CYPRUS 1ST DIV",
+    "waktu": "23:00",
+    "home": "Anorthosis Famagusta",
+    "away": "Pafos FC",
+    "is_live": true,
+    "odds_home": 5.1,
+    "odds_draw": 3.9,
+    "odds_away": 1.49,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.95,
+        "under": 1.93
+      },
+      {
+        "line": 2.5,
+        "over": 1.94,
+        "under": 1.94
+      }
+    ]
+  },
+  {
+    "liga": "POLAND 1ST LIGA",
+    "waktu": "18:00",
+    "home": "Stal Mielec",
+    "away": "Warta Poznan",
+    "is_live": true,
+    "odds_home": 2.63,
+    "odds_draw": 3.37,
+    "odds_away": 2.19,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.73,
+        "under": 2.01
+      },
+      {
+        "line": 2.75,
+        "over": 2.04,
+        "under": 1.71
+      }
+    ]
+  },
+  {
+    "liga": "POLAND 1ST LIGA",
+    "waktu": "23:00",
+    "home": "Puszcza Niepolomice",
+    "away": "Polonia Bytom",
+    "is_live": true,
+    "odds_home": 2.42,
+    "odds_draw": 3.22,
+    "odds_away": 2.44,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.86,
+        "under": 1.88
+      },
+      {
+        "line": 2.5,
+        "over": 2.18,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "ISRAEL PREMIER LEAGUE",
+    "waktu": "01:15",
+    "home": "Hapoel Ramat Gan",
+    "away": "Beitar Jerusalem",
+    "is_live": true,
+    "odds_home": 4.55,
+    "odds_draw": 4.1,
+    "odds_away": 1.52,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.95,
+        "under": 1.81
+      }
+    ]
+  },
+  {
+    "liga": "CROATIA SUPERLIGA",
+    "waktu": "21:00",
+    "home": "NK Lokomotiva Zagreb",
+    "away": "NK Varazdin",
+    "is_live": true,
+    "odds_home": 2.79,
+    "odds_draw": 3.35,
+    "odds_away": 2.17,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.9,
+        "under": 1.94
+      },
+      {
+        "line": 2.75,
+        "over": 1.69,
+        "under": 2.17
+      }
+    ]
+  },
+  {
+    "liga": "SLOVAKIA SUPER LEAGUE",
+    "waktu": "21:30",
+    "home": "MFK Ruzomberok",
+    "away": "MSK Zilina",
+    "is_live": true,
+    "odds_home": 2.66,
+    "odds_draw": 3.42,
+    "odds_away": 2.05,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.88,
+        "under": 1.8
+      },
+      {
+        "line": 3.0,
+        "over": 1.72,
+        "under": 2.13
+      }
+    ]
+  },
+  {
+    "liga": "CHINA LEAGUE 1",
+    "waktu": "15:00",
+    "home": "Yanbian Longding",
+    "away": "Nantong Zhiyun",
+    "is_live": true,
+    "odds_home": 3.3,
+    "odds_draw": 3.3,
+    "odds_away": 1.95,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.77,
+        "under": 1.87
+      },
+      {
+        "line": 3.0,
+        "over": 1.87,
+        "under": 1.77
+      },
+      {
+        "line": 2.75,
+        "over": 1.89,
+        "under": 1.75
+      }
+    ]
+  },
+  {
+    "liga": "CHINA LEAGUE 1",
+    "waktu": "19:00",
+    "home": "Ningbo Professional",
+    "away": "Nanjing City",
+    "is_live": true,
+    "odds_home": 2.11,
+    "odds_draw": 3.15,
+    "odds_away": 3.1,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.85,
+        "under": 1.79
+      },
+      {
+        "line": 3.25,
+        "over": 1.77,
+        "under": 1.87
+      }
+    ]
+  },
+  {
+    "liga": "BULGARIA FIRST PROFESSIONAL FOOTBALL LEAGUE",
+    "waktu": "20:00",
+    "home": "FC Septemvri Sofia",
+    "away": "Dunav Ruse FC",
+    "is_live": true,
+    "odds_home": 2.09,
+    "odds_draw": 3.07,
+    "odds_away": 2.84,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.8,
+        "under": 1.88
+      },
+      {
+        "line": 2.0,
+        "over": 2.09,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "BULGARIA FIRST PROFESSIONAL FOOTBALL LEAGUE",
+    "waktu": "01:00",
+    "home": "FC CSKA 1948 Sofia",
+    "away": "CSKA Sofia",
+    "is_live": true,
+    "odds_home": 3.17,
+    "odds_draw": 3.22,
+    "odds_away": 1.88,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.8,
+        "under": 1.88
+      },
+      {
+        "line": 2.25,
+        "over": 1.56,
+        "under": 2.17
+      }
+    ]
+  },
+  {
+    "liga": "HUNGARY LIGA NB 1",
+    "waktu": "20:45",
+    "home": "Zalaegerszegi TE",
+    "away": "Nyiregyhaza Spartacus",
+    "is_live": true,
+    "odds_home": 2.66,
+    "odds_draw": 3.35,
+    "odds_away": 2.24,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.08,
+        "under": 1.76
+      },
+      {
+        "line": 2.5,
+        "over": 1.78,
+        "under": 2.06
+      },
+      {
+        "line": 3.0,
+        "over": 1.9,
+        "under": 1.94
+      }
+    ]
+  },
+  {
+    "liga": "HUNGARY LIGA NB 1",
+    "waktu": "01:00",
+    "home": "ETO FC Gyor",
+    "away": "Puskas Academy FC",
+    "is_live": true,
+    "odds_home": 2.28,
+    "odds_draw": 3.45,
+    "odds_away": 2.56,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.81,
+        "under": 2.03
+      },
+      {
+        "line": 3.25,
+        "over": 2.11,
+        "under": 1.74
+      }
+    ]
+  },
+  {
+    "liga": "BELGIUM FIRST DIVISION B",
+    "waktu": "22:00",
+    "home": "Patro Eisden Maasmechelen",
+    "away": "Jong Genk",
+    "is_live": true,
+    "odds_home": 1.64,
+    "odds_draw": 3.75,
+    "odds_away": 4.15,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.83,
+        "under": 2.01
+      },
+      {
+        "line": 3.25,
+        "over": 2.09,
+        "under": 1.75
+      },
+      {
+        "line": 2.75,
+        "over": 1.84,
+        "under": 2.0
+      }
+    ]
+  },
+  {
+    "liga": "GEORGIA EROVNULI LIGA",
+    "waktu": "19:30",
+    "home": "FC Samgurali Tskhaltubo",
+    "away": "FC Gagra Tbilisi",
+    "is_live": true,
+    "odds_home": 1.87,
+    "odds_draw": 3.27,
+    "odds_away": 3.17,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.87,
+        "under": 1.73
+      },
+      {
+        "line": 2.75,
+        "over": 1.62,
+        "under": 1.98
+      }
+    ]
+  },
+  {
+    "liga": "UZBEKISTAN SUPER LEAGUE",
+    "waktu": "19:00",
+    "home": "AGMK Olmaliq",
+    "away": "Navbahor Namangan",
+    "is_live": true,
+    "odds_home": 3.4,
+    "odds_draw": 3.4,
+    "odds_away": 1.88,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.96,
+        "under": 1.88
+      },
+      {
+        "line": 3.0,
+        "over": 2.02,
+        "under": 1.82
+      }
+    ]
+  },
+  {
+    "liga": "ARMENIA PREMIER LEAGUE",
+    "waktu": "20:00",
+    "home": "Sardarapat FC",
+    "away": "FC Noah",
+    "is_live": true,
+    "odds_home": 7.42,
+    "odds_draw": 5.32,
+    "odds_away": 1.16,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.8,
+        "under": 1.88
+      },
+      {
+        "line": 2.75,
+        "over": 1.81,
+        "under": 1.87
+      }
+    ]
+  },
+  {
+    "liga": "SERBIA SUPERLIGA",
+    "waktu": "21:00",
+    "home": "FK Radnicki Nis",
+    "away": "FK Vojvodina",
+    "is_live": true,
+    "odds_home": 3.22,
+    "odds_draw": 3.42,
+    "odds_away": 1.81,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.87,
+        "under": 1.81
+      },
+      {
+        "line": 3.0,
+        "over": 1.91,
+        "under": 1.77
+      },
+      {
+        "line": 2.5,
+        "over": 1.95,
+        "under": 1.73
+      }
+    ]
+  },
+  {
+    "liga": "AZERBAIJAN PREMIER LEAGUE",
+    "waktu": "20:00",
+    "home": "Imisli FK",
+    "away": "FK Qarabag",
+    "is_live": true,
+    "odds_home": 9.52,
+    "odds_draw": 5.72,
+    "odds_away": 1.11,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.64,
+        "under": 1.96
+      },
+      {
+        "line": 2.75,
+        "over": 1.66,
+        "under": 1.94
+      }
+    ]
+  },
+  {
+    "liga": "RUSSIA FIRST LEAGUE",
+    "waktu": "22:00",
+    "home": "PFC Sochi",
+    "away": "FC Ufa",
+    "is_live": true,
+    "odds_home": 1.57,
+    "odds_draw": 3.65,
+    "odds_away": 4.7,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.05,
+        "under": 1.83
+      }
+    ]
+  },
+  {
+    "liga": "KAZAKHSTAN PREMIER LEAGUE",
+    "waktu": "18:00",
+    "home": "FC Ulytau",
+    "away": "FC Okzhetpes",
+    "is_live": true,
+    "odds_home": 2.86,
+    "odds_draw": 3.27,
+    "odds_away": 1.96,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.86,
+        "under": 1.82
+      }
+    ]
+  },
+  {
+    "liga": "TURKIYE 1ST LIG",
+    "waktu": "21:00",
+    "home": "Fatih Karagumruk",
+    "away": "Muglaspor",
+    "is_live": true,
+    "odds_home": 1.79,
+    "odds_draw": 3.4,
+    "odds_away": 3.75,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.07,
+        "under": 1.77
+      },
+      {
+        "line": 2.25,
+        "over": 1.79,
+        "under": 2.05
+      }
+    ]
+  },
+  {
+    "liga": "VIETNAM LEAGUE 1",
+    "waktu": "19:00",
+    "home": "Song Lam Nghe An",
+    "away": "Cong An Ho Chi Minh City FC",
+    "is_live": true,
+    "odds_home": 2.18,
+    "odds_draw": 3.02,
+    "odds_away": 2.74,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.62,
+        "under": 2.03
+      },
+      {
+        "line": 3.0,
+        "over": 1.66,
+        "under": 1.98
+      }
+    ]
+  },
+  {
+    "liga": "SLOVENIA PRVA LIGA",
+    "waktu": "21:00",
+    "home": "NK Nafta 1903",
+    "away": "NK Bravo",
+    "is_live": true,
+    "odds_home": 2.33,
+    "odds_draw": 3.4,
+    "odds_away": 2.51,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.85,
+        "under": 1.99
+      },
+      {
+        "line": 3.0,
+        "over": 2.09,
+        "under": 1.75
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE C",
+    "waktu": "18:30",
+    "home": "Torres Calcio",
+    "away": "Atalanta U23",
+    "is_live": true,
+    "odds_home": 2.0,
+    "odds_draw": 3.35,
+    "odds_away": 3.15,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.86,
+        "under": 1.98
+      },
+      {
+        "line": 2.25,
+        "over": 1.88,
+        "under": 1.96
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE C",
+    "waktu": "20:30",
+    "home": "Calcio Foggia 1920",
+    "away": "Potenza",
+    "is_live": true,
+    "odds_home": 2.27,
+    "odds_draw": 3.2,
+    "odds_away": 2.71,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.08,
+        "under": 1.76
+      },
+      {
+        "line": 2.75,
+        "over": 2.05,
+        "under": 1.79
+      },
+      {
+        "line": 2.0,
+        "over": 1.89,
+        "under": 1.95
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE C",
+    "waktu": "20:30",
+    "home": "Scafatese",
+    "away": "Sorrento Calcio 1945",
+    "is_live": true,
+    "odds_home": 2.21,
+    "odds_draw": 3.25,
+    "odds_away": 2.83,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.04,
+        "under": 1.8
+      },
+      {
+        "line": 2.75,
+        "over": 1.8,
+        "under": 2.04
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE C",
+    "waktu": "23:30",
+    "home": "Forli FC",
+    "away": "US Livorno 1915",
+    "is_live": true,
+    "odds_home": 2.24,
+    "odds_draw": 3.2,
+    "odds_away": 2.73,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.06,
+        "under": 1.78
+      },
+      {
+        "line": 2.25,
+        "over": 2.04,
+        "under": 1.8
+      }
+    ]
+  },
+  {
+    "liga": "ITALY SERIE C",
+    "waktu": "23:30",
+    "home": "Treviso",
+    "away": "AC Ospitaletto",
+    "is_live": true,
+    "odds_home": 2.17,
+    "odds_draw": 3.05,
+    "odds_away": 3.05,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.99,
+        "under": 1.85
+      }
+    ]
+  },
+  {
+    "liga": "BELARUS PREMIER LEAGUE",
+    "waktu": "19:00",
+    "home": "FC Vitebsk",
+    "away": "Isloch Minsk Raion",
+    "is_live": true,
+    "odds_home": 3.22,
+    "odds_draw": 2.89,
+    "odds_away": 1.98,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.88,
+        "under": 1.8
+      },
+      {
+        "line": 2.5,
+        "over": 1.98,
+        "under": 1.7
+      }
+    ]
+  },
+  {
+    "liga": "LATVIA VIRSLIGA",
+    "waktu": "19:00",
+    "home": "Ogre United",
+    "away": "BFC Daugavpils",
+    "is_live": true,
+    "odds_home": 3.42,
+    "odds_draw": 3.62,
+    "odds_away": 1.69,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.76,
+        "under": 1.92
+      },
+      {
+        "line": 3.25,
+        "over": 1.84,
+        "under": 1.84
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN PRIMERA FEDERATION",
+    "waktu": "18:00",
+    "home": "Antequera CF",
+    "away": "FC Cartagena",
+    "is_live": true,
+    "odds_home": 2.4,
+    "odds_draw": 3.1,
+    "odds_away": 2.64,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.81,
+        "under": 1.99
+      },
+      {
+        "line": 2.75,
+        "over": 2.01,
+        "under": 1.79
+      },
+      {
+        "line": 2.5,
+        "over": 1.78,
+        "under": 2.02
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN PRIMERA FEDERATION",
+    "waktu": "22:30",
+    "home": "Pontevedra",
+    "away": "Merida AD",
+    "is_live": true,
+    "odds_home": 2.1,
+    "odds_draw": 3.15,
+    "odds_away": 3.15,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.92,
+        "under": 1.88
+      },
+      {
+        "line": 2.0,
+        "over": 1.76,
+        "under": 2.04
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN PRIMERA FEDERATION",
+    "waktu": "03:00",
+    "home": "Atletico Madrileno",
+    "away": "Real Zaragoza",
+    "is_live": true,
+    "odds_home": 2.83,
+    "odds_draw": 3.45,
+    "odds_away": 2.13,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.83,
+        "under": 1.97
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN SEGUNDA FEDERATION",
+    "waktu": "17:00",
+    "home": "Real Murcia CF Imperial",
+    "away": "Yeclano Deportivo",
+    "is_live": true,
+    "odds_home": 3.7,
+    "odds_draw": 3.0,
+    "odds_away": 1.94,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 1.82,
+        "under": 1.94
+      },
+      {
+        "line": 2.25,
+        "over": 1.91,
+        "under": 1.85
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN SEGUNDA FEDERATION",
+    "waktu": "17:30",
+    "home": "SCR Pena Deportiva",
+    "away": "Orihuela",
+    "is_live": true,
+    "odds_home": 2.57,
+    "odds_draw": 3.25,
+    "odds_away": 2.36,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.96,
+        "under": 1.8
+      },
+      {
+        "line": 2.25,
+        "over": 1.91,
+        "under": 1.85
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN ETTAN NORTH",
+    "waktu": "21:00",
+    "home": "FC Jarfalla",
+    "away": "Umea FC",
+    "is_live": true,
+    "odds_home": 2.74,
+    "odds_draw": 3.45,
+    "odds_away": 2.13,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.83,
+        "under": 1.97
+      },
+      {
+        "line": 2.5,
+        "over": 1.85,
+        "under": 1.95
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN ETTAN NORTH",
+    "waktu": "22:00",
+    "home": "Hammarby TFF",
+    "away": "Enkopings SK",
+    "is_live": true,
+    "odds_home": 1.37,
+    "odds_draw": 4.5,
+    "odds_away": 6.0,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 2.04,
+        "under": 1.76
+      }
+    ]
+  },
+  {
+    "liga": "SWEDEN ETTAN SOUTH",
+    "waktu": "19:00",
+    "home": "Utsiktens BK",
+    "away": "Angelholms FF",
+    "is_live": true,
+    "odds_home": 2.81,
+    "odds_draw": 3.45,
+    "odds_away": 2.07,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.88,
+        "under": 1.92
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL 3",
+    "waktu": "18:00",
+    "home": "Mafra",
+    "away": "CF Os Belenenses",
+    "is_live": true,
+    "odds_home": 2.89,
+    "odds_draw": 2.98,
+    "odds_away": 2.22,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.82,
+        "under": 2.02
+      },
+      {
+        "line": 2.5,
+        "over": 1.87,
+        "under": 1.97
+      }
+    ]
+  },
+  {
+    "liga": "LIGA PORTUGAL 3",
+    "waktu": "22:00",
+    "home": "SC Sao Joao de Ver",
+    "away": "Varzim",
+    "is_live": true,
+    "odds_home": 2.62,
+    "odds_draw": 3.0,
+    "odds_away": 2.46,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.98,
+        "under": 1.86
+      }
+    ]
+  },
+  {
+    "liga": "ESTONIA PREMIUM LIGA",
+    "waktu": "19:30",
+    "home": "FCI Levadia Tallinn",
+    "away": "Paide Linnameeskond",
+    "is_live": true,
+    "odds_home": 1.36,
+    "odds_draw": 3.97,
+    "odds_away": 5.32,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.86,
+        "under": 1.82
+      },
+      {
+        "line": 3.25,
+        "over": 1.81,
+        "under": 1.87
+      }
+    ]
+  },
+  {
+    "liga": "SPAIN TERCERA FEDERATION",
+    "waktu": "17:30",
+    "home": "CP Parla Escuela",
+    "away": "CF Fuenlabrada",
+    "is_live": true,
+    "odds_home": 3.35,
+    "odds_draw": 3.1,
+    "odds_away": 2.01,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.95,
+        "under": 1.81
+      },
+      {
+        "line": 2.5,
+        "over": 1.81,
+        "under": 1.95
+      }
+    ]
+  },
+  {
+    "liga": "TAIWAN FOOTBALL PREMIER LEAGUE",
+    "waktu": "16:00",
+    "home": "AC Taipei",
+    "away": "Taichung Rock FC",
+    "is_live": true,
+    "odds_home": 1.58,
+    "odds_draw": 3.85,
+    "odds_away": 4.4,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.75,
+        "under": 2.01
+      },
+      {
+        "line": 2.5,
+        "over": 1.98,
+        "under": 1.78
+      }
+    ]
+  },
+  {
+    "liga": "HONG KONG PREMIER LEAGUE",
+    "waktu": "16:00",
+    "home": "Kwoon Chung Southern",
+    "away": "Eastern District",
+    "is_live": true,
+    "odds_home": 2.15,
+    "odds_draw": 3.25,
+    "odds_away": 2.63,
+    "ou_lines": [
+      {
+        "line": 3.0,
+        "over": 1.69,
+        "under": 2.07
+      },
+      {
+        "line": 3.5,
+        "over": 1.86,
+        "under": 1.9
+      }
+    ]
+  },
+  {
+    "liga": "POLAND 2ND LIGA",
+    "waktu": "18:00",
+    "home": "GKS Tychy",
+    "away": "Gornik Leczna",
+    "is_live": true,
+    "odds_home": 1.88,
+    "odds_draw": 3.4,
+    "odds_away": 3.4,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.88,
+        "under": 1.88
+      },
+      {
+        "line": 3.0,
+        "over": 1.8,
+        "under": 1.96
+      }
+    ]
+  },
+  {
+    "liga": "HONG KONG 1ST DIV",
+    "waktu": "17:30",
+    "home": "Kui Tan SC",
+    "away": "Sham Shui Po",
+    "is_live": true,
+    "odds_home": 3.0,
+    "odds_draw": 3.61,
+    "odds_away": 1.85,
+    "ou_lines": [
+      {
+        "line": 3.5,
+        "over": 1.85,
+        "under": 1.85
+      }
+    ]
+  },
+  {
+    "liga": "USA MAJOR LEAGUE SOCCER",
+    "waktu": "07:00",
+    "home": "St Louis City SC",
+    "away": "L.A Galaxy",
+    "is_live": true,
+    "odds_home": 1.54,
+    "odds_draw": 4.4,
+    "odds_away": 5.0,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.88,
+        "under": 2.02
+      },
+      {
+        "line": 3.5,
+        "over": 2.13,
+        "under": 1.78
+      },
+      {
+        "line": 3.0,
+        "over": 1.66,
+        "under": 2.31
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE A",
+    "waktu": "03:00",
+    "home": "Atletico Mineiro",
+    "away": "Santos SP",
+    "is_live": true,
+    "odds_home": 2.17,
+    "odds_draw": 3.43,
+    "odds_away": 2.96,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.88,
+        "under": 1.98
+      },
+      {
+        "line": 2.75,
+        "over": 2.17,
+        "under": 1.72
+      },
+      {
+        "line": 2.25,
+        "over": 2.42,
+        "under": 1.57
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE A",
+    "waktu": "04:30",
+    "home": "Flamengo RJ",
+    "away": "Fluminense RJ",
+    "is_live": true,
+    "odds_home": 1.45,
+    "odds_draw": 4.18,
+    "odds_away": 6.28,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.1,
+        "under": 1.77
+      },
+      {
+        "line": 2.5,
+        "over": 1.8,
+        "under": 2.06
+      },
+      {
+        "line": 3.0,
+        "over": 2.31,
+        "under": 1.63
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE A",
+    "waktu": "04:30",
+    "home": "Gremio Porto Alegrense",
+    "away": "Internacional RS",
+    "is_live": true,
+    "odds_home": 2.89,
+    "odds_draw": 3.13,
+    "odds_away": 2.38,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.73,
+        "under": 2.15
+      },
+      {
+        "line": 2.0,
+        "over": 2.11,
+        "under": 1.76
+      },
+      {
+        "line": 2.5,
+        "over": 1.59,
+        "under": 2.38
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE A",
+    "waktu": "04:30",
+    "home": "Palmeiras SP",
+    "away": "Corinthians SP",
+    "is_live": true,
+    "odds_home": 1.63,
+    "odds_draw": 3.68,
+    "odds_away": 4.88,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.82,
+        "under": 2.04
+      },
+      {
+        "line": 2.5,
+        "over": 2.15,
+        "under": 1.73
+      },
+      {
+        "line": 2.0,
+        "over": 1.63,
+        "under": 2.31
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE A",
+    "waktu": "06:30",
+    "home": "Bahia EC BA",
+    "away": "Mirassol SP",
+    "is_live": true,
+    "odds_home": 1.71,
+    "odds_draw": 3.88,
+    "odds_away": 4.03,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.93,
+        "under": 1.93
+      },
+      {
+        "line": 3.0,
+        "over": 1.71,
+        "under": 2.18
+      },
+      {
+        "line": 2.5,
+        "over": 2.27,
+        "under": 1.65
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA LIGA PROFESIONAL",
+    "waktu": "01:45",
+    "home": "San Lorenzo",
+    "away": "Deportivo Riestra",
+    "is_live": true,
+    "odds_home": 2.49,
+    "odds_draw": 2.75,
+    "odds_away": 3.2,
+    "ou_lines": [
+      {
+        "line": 1.75,
+        "over": 2.07,
+        "under": 1.83
+      },
+      {
+        "line": 1.5,
+        "over": 1.61,
+        "under": 2.4
+      },
+      {
+        "line": 2.0,
+        "over": 2.49,
+        "under": 1.57
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA LIGA PROFESIONAL",
+    "waktu": "04:00",
+    "home": "CA Platense",
+    "away": "Argentinos Juniors",
+    "is_live": true,
+    "odds_home": 2.97,
+    "odds_draw": 2.96,
+    "odds_away": 2.47,
+    "ou_lines": [
+      {
+        "line": 1.75,
+        "over": 2.13,
+        "under": 1.78
+      },
+      {
+        "line": 2.0,
+        "over": 1.72,
+        "under": 2.21
+      },
+      {
+        "line": 1.5,
+        "over": 2.58,
+        "under": 1.53
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA LIGA PROFESIONAL",
+    "waktu": "04:00",
+    "home": "Rosario Central",
+    "away": "Independiente Rivadavia",
+    "is_live": true,
+    "odds_home": 2.05,
+    "odds_draw": 3.2,
+    "odds_away": 3.6,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.05,
+        "under": 1.85
+      },
+      {
+        "line": 2.0,
+        "over": 1.76,
+        "under": 2.16
+      },
+      {
+        "line": 2.5,
+        "over": 2.36,
+        "under": 1.63
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA LIGA PROFESIONAL",
+    "waktu": "06:15",
+    "home": "Racing Club",
+    "away": "Belgrano",
+    "is_live": true,
+    "odds_home": 2.38,
+    "odds_draw": 3.1,
+    "odds_away": 2.98,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 2.0,
+        "under": 1.9
+      },
+      {
+        "line": 2.25,
+        "over": 1.62,
+        "under": 2.38
+      },
+      {
+        "line": 1.75,
+        "over": 2.38,
+        "under": 1.62
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA LIGA PROFESIONAL",
+    "waktu": "08:30",
+    "home": "Talleres Cordoba",
+    "away": "CA Independiente",
+    "is_live": true,
+    "odds_home": 2.25,
+    "odds_draw": 3.1,
+    "odds_away": 3.2,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.91,
+        "under": 1.99
+      },
+      {
+        "line": 2.0,
+        "over": 1.54,
+        "under": 2.56
+      },
+      {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.7
+      }
+    ]
+  },
+  {
+    "liga": "MEXICO PRIMERA DIVISION",
+    "waktu": "07:00",
+    "home": "Atletico San Luis",
+    "away": "Santos Laguna",
+    "is_live": true,
+    "odds_home": 2.05,
+    "odds_draw": 3.7,
+    "odds_away": 3.1,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.05,
+        "under": 1.85
+      },
+      {
+        "line": 3.0,
+        "over": 1.79,
+        "under": 2.12
+      },
+      {
+        "line": 2.5,
+        "over": 2.26,
+        "under": 1.69
+      }
+    ]
+  },
+  {
+    "liga": "MEXICO PRIMERA DIVISION",
+    "waktu": "07:10",
+    "home": "Pachuca",
+    "away": "Necaxa",
+    "is_live": true,
+    "odds_home": 1.72,
+    "odds_draw": 3.95,
+    "odds_away": 4.1,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.93,
+        "under": 1.97
+      },
+      {
+        "line": 3.0,
+        "over": 2.25,
+        "under": 1.7
+      },
+      {
+        "line": 2.5,
+        "over": 1.72,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "MEXICO PRIMERA DIVISION",
+    "waktu": "09:15",
+    "home": "Pumas UNAM",
+    "away": "Cruz Azul",
+    "is_live": true,
+    "odds_home": 3.2,
+    "odds_draw": 3.55,
+    "odds_away": 2.06,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.84,
+        "under": 2.06
+      },
+      {
+        "line": 3.0,
+        "over": 2.11,
+        "under": 1.8
+      },
+      {
+        "line": 2.5,
+        "over": 1.62,
+        "under": 2.38
+      }
+    ]
+  },
+  {
+    "liga": "CHILE PRIMERA DIVISION",
+    "waktu": "23:30",
+    "home": "Everton Vina del Mar",
+    "away": "Deportes La Serena",
+    "is_live": true,
+    "odds_home": 1.72,
+    "odds_draw": 3.85,
+    "odds_away": 3.85,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.92,
+        "under": 1.98
+      },
+      {
+        "line": 3.0,
+        "over": 2.28,
+        "under": 1.68
+      },
+      {
+        "line": 2.5,
+        "over": 1.9,
+        "under": 2.0
+      }
+    ]
+  },
+  {
+    "liga": "CHILE PRIMERA DIVISION",
+    "waktu": "04:30",
+    "home": "Deportes Concepcion",
+    "away": "Union La Calera",
+    "is_live": true,
+    "odds_home": 2.02,
+    "odds_draw": 3.25,
+    "odds_away": 3.35,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.02,
+        "under": 1.88
+      },
+      {
+        "line": 2.5,
+        "over": 1.73,
+        "under": 2.2
+      },
+      {
+        "line": 3.0,
+        "over": 1.99,
+        "under": 1.91
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE B",
+    "waktu": "03:00",
+    "home": "Juventude RS",
+    "away": "Sao Bernardo SP",
+    "is_live": true,
+    "odds_home": 1.6,
+    "odds_draw": 3.7,
+    "odds_away": 4.85,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.07,
+        "under": 1.83
+      },
+      {
+        "line": 2.5,
+        "over": 1.73,
+        "under": 2.2
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE B",
+    "waktu": "04:30",
+    "home": "Nautico PE",
+    "away": "Vila Nova GO",
+    "is_live": true,
+    "odds_home": 2.59,
+    "odds_draw": 3.15,
+    "odds_away": 2.54,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.97,
+        "under": 1.93
+      },
+      {
+        "line": 2.5,
+        "over": 2.35,
+        "under": 1.64
+      }
+    ]
+  },
+  {
+    "liga": "BRAZIL SERIE B",
+    "waktu": "05:30",
+    "home": "Operario Ferroviario EC",
+    "away": "Goias GO",
+    "is_live": true,
+    "odds_home": 2.31,
+    "odds_draw": 3.2,
+    "odds_away": 2.8,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.03,
+        "under": 1.87
+      },
+      {
+        "line": 2.5,
+        "over": 1.68,
+        "under": 2.28
+      }
+    ]
+  },
+  {
+    "liga": "COLOMBIA PRIMERA A",
+    "waktu": "07:10",
+    "home": "Boyaca Chico",
+    "away": "Cucuta Deportivo",
+    "is_live": true,
+    "odds_home": 2.11,
+    "odds_draw": 3.1,
+    "odds_away": 3.1,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.98,
+        "under": 1.86
+      },
+      {
+        "line": 2.0,
+        "over": 1.6,
+        "under": 2.31
+      },
+      {
+        "line": 2.5,
+        "over": 1.81,
+        "under": 2.03
+      }
+    ]
+  },
+  {
+    "liga": "ECUADOR LIGA PRO SERIE A PLAYOFF",
+    "waktu": "00:30",
+    "home": "Universidad Catolica del Ecuador",
+    "away": "Macara",
+    "is_live": true,
+    "odds_home": 1.89,
+    "odds_draw": 3.35,
+    "odds_away": 3.4,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.89,
+        "under": 1.95
+      },
+      {
+        "line": 2.75,
+        "over": 2.14,
+        "under": 1.71
+      },
+      {
+        "line": 2.25,
+        "over": 1.79,
+        "under": 2.05
+      }
+    ]
+  },
+  {
+    "liga": "ECUADOR LIGA PRO SERIE A PLAYOFF",
+    "waktu": "05:30",
+    "home": "LDU Quito",
+    "away": "Barcelona SC",
+    "is_live": true,
+    "odds_home": 1.65,
+    "odds_draw": 3.55,
+    "odds_away": 4.25,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.82,
+        "under": 2.02
+      },
+      {
+        "line": 2.25,
+        "over": 2.13,
+        "under": 1.72
+      }
+    ]
+  },
+  {
+    "liga": "PARAGUAY PRIMERA DIVISION",
+    "waktu": "04:00",
+    "home": "Rubio Nu",
+    "away": "Olimpia Asuncion",
+    "is_live": true,
+    "odds_home": 3.7,
+    "odds_draw": 3.4,
+    "odds_away": 1.8,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.79,
+        "under": 2.05
+      },
+      {
+        "line": 2.25,
+        "over": 2.04,
+        "under": 1.8
+      }
+    ]
+  },
+  {
+    "liga": "PERU LIGA 1",
+    "waktu": "02:00",
+    "home": "UTC Cajamarca",
+    "away": "Sporting Cristal",
+    "is_live": true,
+    "odds_home": 3.1,
+    "odds_draw": 3.5,
+    "odds_away": 1.95,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.89,
+        "under": 1.95
+      },
+      {
+        "line": 2.5,
+        "over": 2.13,
+        "under": 1.72
+      }
+    ]
+  },
+  {
+    "liga": "PERU LIGA 1",
+    "waktu": "07:30",
+    "home": "Cusco FC",
+    "away": "Alianza Lima",
+    "is_live": true,
+    "odds_home": 2.14,
+    "odds_draw": 3.15,
+    "odds_away": 3.0,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.99,
+        "under": 1.85
+      },
+      {
+        "line": 2.0,
+        "over": 1.63,
+        "under": 2.26
+      }
+    ]
+  },
+  {
+    "liga": "URUGUAY PRIMERA DIVISION",
+    "waktu": "22:00",
+    "home": "CA Juventud",
+    "away": "Racing Club Montevideo",
+    "is_live": true,
+    "odds_home": 2.28,
+    "odds_draw": 3.02,
+    "odds_away": 2.6,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.72,
+        "under": 1.96
+      },
+      {
+        "line": 2.5,
+        "over": 2.09,
+        "under": 1.61
+      }
+    ]
+  },
+  {
+    "liga": "URUGUAY PRIMERA DIVISION",
+    "waktu": "05:30",
+    "home": "Central Espanol [n]",
+    "away": "Nacional Montevideo",
+    "is_live": true,
+    "odds_home": 4.07,
+    "odds_draw": 3.72,
+    "odds_away": 1.53,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.67,
+        "under": 2.01
+      },
+      {
+        "line": 2.5,
+        "over": 1.96,
+        "under": 1.72
+      }
+    ]
+  },
+  {
+    "liga": "COSTA RICA PRIMERA DIVISION",
+    "waktu": "07:00",
+    "home": "Escorpiones Belen [n]",
+    "away": "Deportivo Saprissa",
+    "is_live": true,
+    "odds_home": 5.4,
+    "odds_draw": 4.15,
+    "odds_away": 1.45,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 2.05,
+        "under": 1.79
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA PRIMERA NACIONAL",
+    "waktu": "02:00",
+    "home": "Deportivo Madryn",
+    "away": "Chaco For Ever",
+    "is_live": true,
+    "odds_home": 1.66,
+    "odds_draw": 3.35,
+    "odds_away": 4.6,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 1.92,
+        "under": 1.92
+      },
+      {
+        "line": 1.75,
+        "over": 1.66,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA PRIMERA NACIONAL",
+    "waktu": "02:30",
+    "home": "CA Atlanta",
+    "away": "San Martin Tucuman",
+    "is_live": true,
+    "odds_home": 2.14,
+    "odds_draw": 2.91,
+    "odds_away": 3.25,
+    "ou_lines": [
+      {
+        "line": 1.75,
+        "over": 1.83,
+        "under": 2.01
+      },
+      {
+        "line": 2.0,
+        "over": 2.14,
+        "under": 1.71
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA PRIMERA NACIONAL",
+    "waktu": "02:30",
+    "home": "Defensores de Belgrano",
+    "away": "CA Acassuso",
+    "is_live": true,
+    "odds_home": 1.69,
+    "odds_draw": 3.25,
+    "odds_away": 4.5,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 1.97,
+        "under": 1.87
+      },
+      {
+        "line": 1.75,
+        "over": 1.69,
+        "under": 2.17
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA PRIMERA NACIONAL",
+    "waktu": "03:00",
+    "home": "Gimnasia Jujuy",
+    "away": "Gimnasia Y Tiro",
+    "is_live": true,
+    "odds_home": 1.93,
+    "odds_draw": 3.25,
+    "odds_away": 3.4,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 1.93,
+        "under": 1.91
+      },
+      {
+        "line": 2.0,
+        "over": 1.66,
+        "under": 2.21
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA PRIMERA NACIONAL",
+    "waktu": "04:00",
+    "home": "Central Norte de Salta",
+    "away": "Ferro Carril Oeste",
+    "is_live": true,
+    "odds_home": 2.97,
+    "odds_draw": 2.75,
+    "odds_away": 2.38,
+    "ou_lines": [
+      {
+        "line": 1.75,
+        "over": 2.13,
+        "under": 1.72
+      },
+      {
+        "line": 1.5,
+        "over": 1.71,
+        "under": 2.14
+      }
+    ]
+  },
+  {
+    "liga": "ARGENTINA PRIMERA NACIONAL",
+    "waktu": "04:00",
+    "home": "Deportivo Maipu",
+    "away": "San Martin San Juan",
+    "is_live": true,
+    "odds_home": 2.21,
+    "odds_draw": 2.9,
+    "odds_away": 3.1,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 1.92,
+        "under": 1.92
+      },
+      {
+        "line": 1.75,
+        "over": 2.21,
+        "under": 1.66
+      }
+    ]
+  },
+  {
+    "liga": "COLOMBIA CUP",
+    "waktu": "03:00",
+    "home": "Independiente Santa Fe [n]",
+    "away": "Fortaleza CEIF",
+    "is_live": true,
+    "odds_home": 1.73,
+    "odds_draw": 3.4,
+    "odds_away": 4.4,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.02,
+        "under": 1.82
+      }
+    ]
+  },
+  {
+    "liga": "CHILE PRIMERA B",
+    "waktu": "23:30",
+    "home": "Antofagasta",
+    "away": "San Marcos de Arica",
+    "is_live": true,
+    "odds_home": 1.82,
+    "odds_draw": 3.17,
+    "odds_away": 3.32,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 2.11,
+        "under": 1.6
+      },
+      {
+        "line": 2.75,
+        "over": 1.91,
+        "under": 1.77
+      }
+    ]
+  },
+  {
+    "liga": "CANADIAN PREMIER LEAGUE",
+    "waktu": "07:00",
+    "home": "Pacific FC [CAN]",
+    "away": "Atletico Ottawa",
+    "is_live": true,
+    "odds_home": 2.82,
+    "odds_draw": 3.8,
+    "odds_away": 1.99,
+    "ou_lines": [
+      {
+        "line": 3.25,
+        "over": 1.85,
+        "under": 1.99
+      }
+    ]
+  },
+  {
+    "liga": "COLOMBIA PRIMERA B",
+    "waktu": "04:00",
+    "home": "Envigado FC",
+    "away": "Internacional de Palmira",
+    "is_live": true,
+    "odds_home": 1.86,
+    "odds_draw": 3.1,
+    "odds_away": 3.9,
+    "ou_lines": [
+      {
+        "line": 2.0,
+        "over": 1.7,
+        "under": 2.16
+      },
+      {
+        "line": 2.25,
+        "over": 1.85,
+        "under": 1.99
+      },
+      {
+        "line": 2.5,
+        "over": 1.86,
+        "under": 1.98
+      }
+    ]
+  },
+  {
+    "liga": "URUGUAY SEGUNDA DIVISION",
+    "waktu": "00:00",
+    "home": "Atenas de San Carlos",
+    "away": "Miramar Misiones",
+    "is_live": true,
+    "odds_home": 2.29,
+    "odds_draw": 3.25,
+    "odds_away": 2.7,
+    "ou_lines": [
+      {
+        "line": 2.25,
+        "over": 2.06,
+        "under": 1.7
+      },
+      {
+        "line": 2.0,
+        "over": 1.94,
+        "under": 1.82
+      }
+    ]
+  },
+  {
+    "liga": "VENEZUELA PRIMERA DIVISION",
+    "waktu": "04:00",
+    "home": "Anzoategui FC",
+    "away": "Carabobo",
+    "is_live": true,
+    "odds_home": 4.37,
+    "odds_draw": 3.57,
+    "odds_away": 1.55,
+    "ou_lines": [
+      {
+        "line": 2.75,
+        "over": 1.9,
+        "under": 1.7
+      },
+      {
+        "line": 2.5,
+        "over": 1.8,
+        "under": 1.8
+      },
+      {
+        "line": 2.25,
+        "over": 1.77,
+        "under": 1.83
+      }
+    ]
+  },
+  {
+    "liga": "VENEZUELA PRIMERA DIVISION",
+    "waktu": "06:00",
+    "home": "Monagas SC",
+    "away": "Estudiantes de Merida",
+    "is_live": true,
+    "odds_home": 2.12,
+    "odds_draw": 3.12,
+    "odds_away": 2.79,
+    "ou_lines": [
+      {
+        "line": 2.5,
+        "over": 1.91,
+        "under": 1.69
+      }
+    ]
+  }
+]
